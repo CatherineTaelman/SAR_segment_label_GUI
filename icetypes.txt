@@ -1,0 +1,9 @@
+No label
+Open water (OW), calm
+Open water (OW), windy
+Leads
+Brash/Pancake ice
+Young ice (YI)
+Level first-year ice (LFYI)
+Deformed first-year ice (DFYI)
+Multi-year ice (MYI)
