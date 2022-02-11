@@ -1,4 +1,5 @@
-# data_labeling_tool
+# data_labeling_GUI
+The difference between this tool and the data_labeling_full_tool, is that this tool assumes the user inputs crops, while the other tool lets the user crop a region from the entire SAR scene.
 
 Tool for quick labeling of remote sensing (SAR) data. Uses the automated Mixture of Gaussian segmentation model (Doulgeris, A.P., and Cristea, A.) to produce segments and asks the user to label these segments via a GUI.
 
