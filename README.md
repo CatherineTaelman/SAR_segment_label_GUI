@@ -25,6 +25,8 @@ Following positional arguments need to be given: path to feature folder and resu
 The feature folder should contain the following: 
 - All bands you want to use for segmentation (and subsequent labeling), each band as a seperate file. In .tiff or .img format (the last one is under construction!) (e.g.: 'HH_db.tiff', 'HH_db_ML_7x7.tiff')
 
+NOTE: currently the app requires exactly 2 bands as input! I am working on implementing support of more or less bands.
+
 **Run from command line:** <br>
 
     python run_app_without_cropping.py path_to_feature_folder path_to_results_folder -goal -loglevel
