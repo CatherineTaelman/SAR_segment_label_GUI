@@ -31,7 +31,7 @@ _Optional_ arguments that can be specified:
 - goal: icetypes or ice-water (default is 'icetypes')
 - loglevel
 
-**Complete information about the arguments** can be found by calling `python run_app_without_cropping.py -h`.<br>
+**Complete information about the arguments can be found by calling `python run_app_without_cropping.py -h`.**<br>
 
 The feature folder should contain the following: 
 - All bands you want to use for segmentation (and subsequent labeling), each band as a seperate file. In .tiff or .img format (the last one is under construction!) (e.g.: 'HH_db.tiff', 'HH_db_ML_7x7.tiff')
